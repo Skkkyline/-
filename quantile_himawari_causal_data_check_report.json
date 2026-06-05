@@ -1,0 +1,33 @@
+{
+  "n_metric_files": 9,
+  "n_prediction_files": 9,
+  "metric_rows": 54,
+  "prediction_rows": 17538,
+  "duplicate_metric_keys": 0,
+  "feature_sets": [
+    "power_weather_era5",
+    "power_weather_era5_himawari"
+  ],
+  "horizons": [
+    15,
+    30,
+    60
+  ],
+  "prediction_dt_min": "2023-04-20 09:15:00",
+  "prediction_dt_max": "2023-04-30 16:45:00",
+  "target_dt_min": "2023-04-20 09:30:00",
+  "target_dt_max": "2023-04-30 17:45:00",
+  "lead_minutes": [
+    15,
+    30,
+    60
+  ],
+  "quantile_crossing_raw_count": 0,
+  "quantile_crossing_cal_count": 0,
+  "negative_target_count": 0,
+  "negative_q10_count": 0,
+  "negative_q50_count": 0,
+  "negative_q90_count": 0,
+  "negative_q10_cal_count": 0,
+  "negative_q90_cal_count": 0
+}
